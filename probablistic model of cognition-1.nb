@@ -1,0 +1,176 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      8303,        167]
+NotebookOptionsPosition[      7779,        143]
+NotebookOutlinePosition[      8115,        158]
+CellTagsIndexPosition[      8072,        155]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["\<\
+Probabilistic Models of Cognition
+\
+\>", "Title",
+ CellChangeTimes->{{3.613240339623914*^9, 3.613240377381386*^9}}],
+
+Cell[CellGroupData[{
+
+Cell["1. Introduction", "Section",
+ CellChangeTimes->{{3.6132404215708838`*^9, 3.613240452010314*^9}, {
+  3.613240668674576*^9, 3.613240671431384*^9}}],
+
+Cell[TextData[StyleBox["What is thought? How can we describe the intelligent \
+inferences made in everyday human reasoning and learning? How can we engineer \
+intelligent machines? The computational theory of mind aims to answer these \
+questions starting from the hypothesis that the mind is a computer, mental \
+representations are computer programs, and thinking is a computational \
+process \[Dash] running a computer program.\n\nBut what kind of program? A \
+natural assumption is that these programs take the inputs \[Dash] percepts \
+from the senses, facts from memory, etc \[Dash] and compute the outputs \
+\[Dash] the intelligent behaviors. Thus the mental representations that lead \
+to thinking are functions from inputs to outputs. However, this input-output \
+view suffers from a combinatorial explosion: we must posit an input-output \
+program for each task in which humans draw intelligent inferences. A \
+different approach is to assume that mental representations are more like \
+theories in science: pieces of knowledge that can support many inferences in \
+many different situations. For instance, Newton\[CloseCurlyQuote]s theory of \
+motion makes predictions about infinitely many different configurations of \
+objects and can be used to reason both forward in time and from final state \
+of a physical system to the initial state. The generative approach to \
+cognition posits that some mental representations are more like theories in \
+this way: they capture general descriptions of how the world works \[Dash] \
+these programs of the mind are models of the world that can be used to make \
+many inferences. (While other programs of the mind take these generative \
+programs and actually draw inferences.)\n\nA generative model describes a \
+process, usually one by which observable data is generated. Generative models \
+represent knowledge about the causal structure of the world \[Dash] \
+simplified, \[OpenCurlyDoubleQuote]working models\[CloseCurlyDoubleQuote] of \
+a domain. These models may then be used to answer many different questions, \
+by conditional inference. This contrasts to a more procedural or mechanistic \
+approach in which knowledge represents the input-output mapping for a \
+particular question directly. While such generative models often describe how \
+we think the \[OpenCurlyDoubleQuote]actual world\[CloseCurlyDoubleQuote] \
+works, there are many cases where it is useful to have a generative model \
+even if there is no \[OpenCurlyDoubleQuote]fact of the matter\
+\[CloseCurlyDoubleQuote]. A prime example of the latter is in linguistics, \
+where generative models of grammar can usefully describe the possible \
+sentences in a language by describing a process for constructing sentences.\n\
+\nIt is possible to use deterministic generative models to describe possible \
+ways a process could unfold, but due to sparsity of observations or actual \
+randomness there will often be many ways that our observations could have \
+been generated. How can we choose amongst them? Probability theory provides a \
+system for reasoning under exactly this kind of uncertainty. Probabilistic \
+generative models describe processes which unfold with some amount of \
+randomness, and probabilistic inference describes ways to ask questions of \
+such processes. This book is concerned with the knowledge that can be \
+represented by probabilistic generative models and the inferences that can be \
+drawn from them.\n\nIn order to make the idea of generative models precise we \
+want a formal language that is designed to express the kinds of knowledge \
+individuals have about the world. This language should be universal in the \
+sense that it should be able to express any (computable) process. We build on \
+the \[Lambda]-calculus (as realized in functional programming languages) \
+because the \[Lambda]-calculus describes computational processes and captures \
+the idea that what is important is causal dependence\[LongDash]in particular \
+the \[Lambda]-calculus does not focus on the sequence of time, but rather on \
+which events influence which other events. We introduce randomness into this \
+language to construct a stochastic \[Lambda]-calculus, and describe \
+conditional inferences in this language.", "Text"]], "Text",
+ CellChangeTimes->{3.6132406783453007`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["2 Generative model", "Section",
+ CellChangeTimes->{{3.6132405702926283`*^9, 3.6132405766686707`*^9}, 
+   3.613241266678166*^9}],
+
+Cell[BoxData[
+ RowBox[{"Models", ",", "simulation", ",", 
+  RowBox[{"and", " ", "degrees", " ", "of", " ", "belief"}]}]], "Input",
+ CellChangeTimes->{{3.613240640233506*^9, 3.613240658810689*^9}}],
+
+Cell["\<\
+One view of knowledge is that the mind maintains working models of parts of \
+the world. \[OpenCurlyQuote]Model\[CloseCurlyQuote] in the sense that it \
+captures some of the structure in the world, but not all (and what it \
+captures need not be exactly what is in the world\[LongDash]just useful). \
+\[OpenCurlyQuote]Working\[CloseCurlyQuote] in the sense that it can be used \
+to simulate this part of the world, imagining what will follow from different \
+initial conditions. As an example take the Plinko machine: a box with \
+uniformly spaced pegs, with bins at the bottom. Into this box we can drop \
+marbles:
+
+The plinko machine is a \[OpenCurlyQuote]working model\[CloseCurlyQuote] for \
+many physical processes in which many small perturbations accumulate\
+\[LongDash]for instance a leaf falling from a tree. It is an approximation to \
+these systems because we use a discrete grid (the pegs) and discrete bins. \
+Yet it is useful as a model: for instance, we can ask where we expect a \
+marble to end up depending on where we drop it in, by running the machine \
+several times\[LongDash]simulating the outcome.
+
+Simulation is intimately connected to degrees of belief. For instance, \
+imagine that someone has dropped a marble into the plinko machine; before \
+looking at the outcome, you can probably report how much you believe that the \
+ball has landed in each possible bin. Indeed, if you run the plinko machine \
+many times, you will see a shape emerge in the bins. The number of balls in a \
+bin gives you some idea how much you should expect a new marble to end up \
+there. This \[OpenCurlyQuote]shape of expected outcomes\[CloseCurlyQuote] can \
+be formalized as a probability distribution (described below). Indeed, there \
+is an intimate connection between simulation and probability, which we \
+explore in the rest of this section.
+
+There is one more thing to note about our Plinko machine above: we are using \
+a computer program to simulate the simulation. Computers can be seen as \
+universal simulators. How can we, clearly and precisely, describe the \
+simulation we want a computer to do?\
+\>", "Text",
+ CellChangeTimes->{3.61324083976787*^9}]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1280, 776},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"9.0 for Linux x86 (64-bit) (November 20, 2012)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 125, 4, 150, "Title"],
+Cell[CellGroupData[{
+Cell[729, 30, 151, 2, 81, "Section"],
+Cell[883, 34, 4315, 56, 631, "Text"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5235, 95, 133, 2, 81, "Section"],
+Cell[5371, 99, 196, 3, 32, "Input"],
+Cell[5570, 104, 2181, 35, 351, "Text"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
