@@ -35,7 +35,11 @@ Aldo Rustichini: [Game theory and economics (lecture notes)](https://sites.googl
 
 Dirk Bergemann: [Mechanism design and computation (lecture notes)](https://campuspress.yale.edu/dirkbergemann/teaching/). 
 
-Felix Munoz-Garcia: [Game theory and advanced microeconomics (lecture note)](https://felixmunozgarcia.com/teaching/)
+Felix Munoz-Garcia: [Game theory and advanced microeconomics (lecture note)](https://felixmunozgarcia.com/teaching/)  
+
+John K.-H Quah: [Mathematical economics (lecture notes)](https://www.johnquah.com/lecture-slides.html)
+
+
 
 ------
 
