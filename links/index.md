@@ -37,7 +37,7 @@ Dirk Bergemann: [Mechanism design and computation (lecture notes)](https://campu
 
 Felix Munoz-Garcia: [Game theory and advanced microeconomics (lecture note)](https://felixmunozgarcia.com/teaching/)  
 
-John K.-H Quah: [Mathematical economics (lecture notes)](https://www.johnquah.com/lecture-slides.html)
+John K.H Quah: [Mathematical economics (lecture notes)](https://www.johnquah.com/lecture-slides.html)
 
 
 

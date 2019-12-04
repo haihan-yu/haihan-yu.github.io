@@ -17,7 +17,7 @@ layout: default
 
 ------
 
-- [Better Fooling than Pooling: an Experiment on Signaling]()  With F. Feri, M. A. Meléndez-Jiménez, G. Ponti, F.Vega-Redondo *Revise and Resubmit* at  *Journal of Economic Behavior and Organization*
+- [Better Fooling than Pooling: an Experiment on Signaling]()  With F. Feri, M. A. Meléndez-Jiménez, G. Ponti, F. Vega-Redondo *Revise and Resubmit* at  *Journal of Economic Behavior and Organization*
 
   
 
