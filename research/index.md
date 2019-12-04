@@ -21,8 +21,6 @@ layout: default
 
 - [Common Knowledge of Rationality and Information Demand: An Experiment on observational Learning and Information Consumption]()  *Under Review*. 
 
-  
-
 ------
 
 **Working in Progress**   
