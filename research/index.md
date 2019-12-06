@@ -8,7 +8,6 @@ layout: default
 **Publication**   
 
 
-
 - [Cognitive (Ir)reflection: New Experimental Evidence](https://www.dropbox.com/s/e9qdlbw2q5wzlo9/CRT_Published_Paper.pdf?dl=0)  with C. Cueva, E. Mata-Pérez, I. Iturbe-Ormaetxe, G. Ponti, M. Sartarelli, and V. Zhukova, *Journal of Behavioral and Experimental Economics* (2016).  
 
 
@@ -25,7 +24,7 @@ layout: default
 **Working in Progress**   
 
 
-
 - Boston Mechanisms with Non-Equilibrium Strategic Players with [Makoto Yokoo](http://agent.inf.kyushu-u.ac.jp/~yokoo/)
 - Contested School Choice
+
 
