@@ -8,7 +8,7 @@ layout: default
 **Publication**   
 
 
-- [Cognitive (Ir)reflection: New Experimental Evidence](https://www.dropbox.com/s/e9qdlbw2q5wzlo9/CRT_Published_Paper.pdf?dl=0)  with C. Cueva, E. Mata-Pérez, I. Iturbe-Ormaetxe, G. Ponti, M. Sartarelli, and V. Zhukova, *Journal of Behavioral and Experimental Economics* (2016).  
+- [Cognitive (Ir)reflection: New Experimental Evidence](https://www.sciencedirect.com/science/article/pii/S2214804315001056)  with C. Cueva, E. Mata-Pérez, I. Iturbe-Ormaetxe, G. Ponti, M. Sartarelli, and V. Zhukova, *Journal of Behavioral and Experimental Economics* (2016).  
 
 
 
