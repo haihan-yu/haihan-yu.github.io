@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: default
+layout: post
 ---
 
 
