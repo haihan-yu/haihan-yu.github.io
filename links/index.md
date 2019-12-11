@@ -80,7 +80,11 @@ Sergei Treil: [Linear algebra done wrong (open access book)](http://www.math.bro
 
 Rakesh V. Vohra: [Submodularity and discrete convexity (lecture notes)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdWFlcmVyZXZlcnVtOXxneDo2YjM0ZmZmYjIxYzUwMWY)   
 
-Jay Cummings: [Long-form mathematics  (webpage)](https://longformmath.com)  
+Jay Cummings: [Long-form mathematics  (webpage)](https://longformmath.com)     
+
+
+
+
 
 
 
