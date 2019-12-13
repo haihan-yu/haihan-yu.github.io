@@ -130,10 +130,8 @@ Jay Cummings: [Long-form mathematics  (webpage)](https://longformmath.com)
 
 ------
 
+[The root of progress](https://rootsofprogress.org)  
 
-[The root of progress](https://rootsofprogress.org). 
-
-[Savage minds](http://savageminds.org/)
 
 [A fine theorem](https://afinetheorem.wordpress.com/)
 
