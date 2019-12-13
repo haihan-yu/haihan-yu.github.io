@@ -60,7 +60,7 @@ Kevin Sheppard: [Python for econometrics (open access book)](https://www.kevinsh
 
 Bryan Graham: [Econometrics for social networks (lecture notes)](https://github.com/bryangraham/short_courses)    
 
-[A repository of papers that bring machine learning into economics and Econometrics](http://econ-neural.net/)
+[A repository of papers that bring machine learning into economics and econometrics](http://econ-neural.net/)
 
 ------
 
