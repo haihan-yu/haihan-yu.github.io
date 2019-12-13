@@ -131,6 +131,7 @@ Jay Cummings: [Long-form mathematics  (webpage)](https://longformmath.com)
 ------
 
 
+[The root of progress](https://rootsofprogress.org). 
 
 [Savage minds](http://savageminds.org/)
 
