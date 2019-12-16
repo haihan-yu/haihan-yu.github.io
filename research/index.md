@@ -15,7 +15,7 @@ layout: default
 **Working Paper**   
 
 
-- [Better Fooling than Pooling: an Experiment on Signaling]()  with F. Feri, M. A. Meléndez-Jiménez, G. Ponti, F. Vega-Redondo, Revise and Resubmit at  *Journal of Economic Behavior and Organization*
+- [Better Fooling than Pooling: an Experiment on Signaling](https://www.dropbox.com/s/ea0xhb7c90cmtnf/FoolingVSPooling.pdf?dl=0)  with F. Feri, M. A. Meléndez-Jiménez, G. Ponti, F. Vega-Redondo, Revise and Resubmit at  *Journal of Economic Behavior and Organization*
 
 - [Common Knowledge of Rationality and Information Demand: An Experiment on Observational Learning and Information Consumption]()  *Under Review*. 
 
