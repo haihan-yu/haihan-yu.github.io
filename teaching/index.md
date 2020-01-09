@@ -14,7 +14,7 @@ layout: default
 ](“/teaching/introauction/lecture03.pdf”)
 
 [Application: e-commerce
-](https://github.com/haihan/haihan.github.io/blob/master/teaching/introauction/lecture04.pdf)    
+](https://github.com/haihan-/haihan.github.io/blob/master/teaching/introauction/lecture04.pdf)    
 
 
 <strong>Theory and Applications of Matching </strong>
