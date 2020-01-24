@@ -9,7 +9,7 @@ I am a researcher at [Multi-Agent Laboratory](https://bit.ly/2FBENYL) of [Gradua
 
 My research interests are game theory, market design and behavioral economics. 
 
-<img src="logo.png" style="zoom: 33%;" />
+<img src="logo.png" style="zoom: 50%;" />
 
  
 
