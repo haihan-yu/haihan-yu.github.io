@@ -5,12 +5,13 @@ layout: default
 
 #                    Haihan Yu
 
-![](logo.png)
-
+<img src="logo.png" style="zoom: 33%;" />
 
 I am a researcher at [Multi-Agent Laboratory](https://bit.ly/2FBENYL) of [Graduate School of Information Science and Electrical Engineering](http://www.isee.kyushu-u.ac.jp/e/), [Kyushu University](http://www.kyushu-u.ac.jp/en/).  
 
 My research interests are game theory, market design and behavioral economics.  
+
+
 
 
 
