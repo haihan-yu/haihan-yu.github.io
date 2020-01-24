@@ -5,6 +5,8 @@ layout: default
 
 #                    Haihan Yu
 
+![](logo.png)
+
 
 I am a researcher at [Multi-Agent Laboratory](https://bit.ly/2FBENYL) of [Graduate School of Information Science and Electrical Engineering](http://www.isee.kyushu-u.ac.jp/e/), [Kyushu University](http://www.kyushu-u.ac.jp/en/).  
 
