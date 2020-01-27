@@ -5,12 +5,18 @@ layout: default
 ## Microeconomic Theory Reading Group
 
 <hr>
-
-We meet twice a week to discuss important papers on game theory, mechanism design and mathematical economics.  
+We are an informal and self-organized  reading group. We meet twice a week to discuss important papers on game theory, mechanism design and mathematical economics.  
 If you are around the Ito Campus of Kyushu University and would like to join us, please send send me a message to know the time of our meeting. We warmly welcome you!
 
-**The place we meet:** Room 824, West 2 bldg., Ito Compus, Kyushu University
+**The place where we meet:** Room 824, West 2 bldg., Ito Compus, Kyushu University
 
 **The paper we are currently reading:**
 
-[Weak Monotone Comparative Statics](https://arxiv.org/pdf/1911.06442) by Yeon-Koo Che, Jinwoo Kim, Fuhito Kojima
+[Weak Monotone Comparative Statics](https://arxiv.org/pdf/1911.06442) by Yeon-Koo Che, Jinwoo Kim, Fuhito Kojima. 
+
+**The Papers we are going to read:**  
+
+[Discrete Convex Analysis: A Tool for Economics and Game Theory](http://www.mechanism-design.org/arch/v001-1/p_05.pdf)
+
+
+
