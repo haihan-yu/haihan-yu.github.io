@@ -8,13 +8,12 @@ layout: default
 
 
 
-[Fundamentals of Auction Theory](“/teaching/introauction/lecture02.pdf”)       
+[Fundamentals of Auction Theory](/teaching/introauction/lecture02.pdf)   
 
-[The Vickrey-Clarke-Groves Mechanism
-](“/teaching/introauction/lecture03.pdf”)
 
-[Application: e-commerce
-](https://github.com/haihan-/haihan.github.io/blob/master/teaching/introauction/lecture04.pdf)    
+[The Vickrey-Clarke-Groves Mechanism](/teaching/introauction/lecture03.pdf)  
+
+[Application: e-commerce](/teaching/introauction/lecture03.pdf)    
 
 
 <strong>Theory and Applications of Matching </strong>
