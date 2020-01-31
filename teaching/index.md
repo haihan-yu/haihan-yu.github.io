@@ -8,7 +8,7 @@ layout: default
 
 
 
-[Fundamentals of Auction Theory](“/teaching/introauction/lecture02.pdf”)   
+[Fundamentals of Auction Theory](“/introauction/lecture02.pdf”)   
 
 
 [The Vickrey-Clarke-Groves Mechanism](/teaching/introauction/lecture03.pdf)  
