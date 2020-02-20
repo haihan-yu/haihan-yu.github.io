@@ -13,13 +13,13 @@ If you are around the Ito Campus of Kyushu University and would like to join us,
 
 **The paper we are currently reading:**
 
-[Weak Monotone Comparative Statics](https://arxiv.org/pdf/1911.06442) by Yeon-Koo Che, Jinwoo Kim, Fuhito Kojima. 
+[Discrete Convex Analysis: A Tool for Economics and Game Theory](http://www.mechanism-design.org/arch/v001-1/p_05.pdf) by Kazuo Murota
 
 **The Papers we are going to read:**  
 
-[Discrete Convex Analysis: A Tool for Economics and Game Theory](http://www.mechanism-design.org/arch/v001-1/p_05.pdf) by Kazuo Murota
+[Designing Matching Mechanisms under General Distributional Constraints](https://www.dropbox.com/s/hntojmsra6d7wp8/AEJ-GKKTY-0613-2016.pdf?dl=0) by Masahiro Goto, Fuhito Kojima, Ryoji Kurata, Akihisa Tamura, and Makoto Yokoo  
 
-[Designing Matching Mechanisms under General Distributional Constraints](https://www.dropbox.com/s/hntojmsra6d7wp8/AEJ-GKKTY-0613-2016.pdf?dl=0) by Masahiro Goto, Fuhito Kojima, Ryoji Kurata, Akihisa Tamura, and Makoto Yokoo
+[Weak Monotone Comparative Statics](https://arxiv.org/pdf/1911.06442) by Yeon-Koo Che, Jinwoo Kim, Fuhito Kojima. 
 
 
 
