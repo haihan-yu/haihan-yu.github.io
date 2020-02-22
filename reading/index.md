@@ -5,8 +5,9 @@ layout: default
 ## Microeconomic Theory Reading Group
 
 <hr>
-This is an informal and self-organized reading group. We meet twice a week to discuss important papers on game theory, mechanism design and mathematical economics.  
-If you are around the Ito Campus of Kyushu University and would like to join us, please send me a message to know the time of our meeting. We warmly welcome you!
+This is an informal and self-organized reading group. We meet twice a week to discuss important papers or textbooks on game theory, mechanism design and mathematical economics.  
+If you are around the Ito Campus of Kyushu University and would like to join us, please send me an email to know the time of our meeting. We warmly welcome you!
+
 
 
 **The place where we meet:** Room 824, West 2 bldg., Ito Compus, Kyushu University
