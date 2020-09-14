@@ -3,9 +3,11 @@ title: Teaching
 layout: default
 ---
 
+<strong>Game Theory and Economics of Information </strong>(Ph.D.)
+
+[Link to syllabus](https://shimo.im/docs/qQr9qkt8cXyHRYvQ/ )
+
 <strong>Auction Theory </strong>
-
-
 
 
 [Fundamentals of Auction Theory](“/introauction/lecture02.pdf”)   
