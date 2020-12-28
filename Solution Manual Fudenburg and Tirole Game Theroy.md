@@ -4,9 +4,9 @@
 
 ### Exercises 1.10
 
-- The set of players: $I=\{1,...,I\}$
+- The set of players: $S=\{s_1,...,s_I\}=\{n_1,...,n_I\}$
 
-- The strategy space of players: $S=\{s_1,...,s_I\}=\{n_1,...,n_I\}$
+- The strategy space of players: 
 
 - The payoff function for player i: $u_i(n_1,...,n_I)=n_iv(\sum n_i)-n_i c$
 
