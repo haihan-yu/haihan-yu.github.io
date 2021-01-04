@@ -5,20 +5,13 @@ layout: default
 
 #                    Haihan Yu
 
-I am an assistant professor at School of Ecoononics, Zhejiang  University of Finance and Economics. 
+I am an assistant professor at School of Economics, Zhejiang  University of Finance and Economics. 
 
-My research interests are game theory, market design and behavioral economics. 
+My research interests are game theory, mechanism design and behavioral economics. 
 
 
 
  
 
 
-
-<p><strong>Contact Information: </strong><br/>
-Room 825, West 2 bldg.<br/>
-Kyushu University<br/>
-Motooka 744, Nishi-Ku<br/>
-Fukuoka, Japan<br/>
-Email:haihanyu(at)inf.kyushu-u.ac.jp</p>
 
