@@ -9,8 +9,7 @@ I am an assistant professor at School of Economics, Zhejiang  University of Fina
 
 
 My research interests are game theory, mechanism design and behavioral economics. 
-=======
-My research interests are game theory, market design and behavioral economics.  
+
 
 
 
