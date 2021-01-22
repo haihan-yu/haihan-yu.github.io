@@ -9,7 +9,9 @@ layout: default
 
 ------
 
-Alvin Roth: [Game theory, experimental economics and market design (webpage)](http://web.stanford.edu/~alroth/alroth.html)
+Alvin Roth: [Game theory, experimental economics and market design (webpage)](http://web.stanford.edu/~alroth/alroth.html)  
+
+Alfred Galichon[math+econ+code (courses webpages)](http://alfredgalichon.com/coursesandtalks/)
 
 Fuhito Kojima: [Game theory and market design (lecture notes)](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
 
@@ -54,7 +56,6 @@ Victor Aguirregabiria: [Structural econometrics for industrial organizations (le
 Kenneth Train: [Discrete choice methods with simulation (lecture notes)](http://eml.berkeley.edu/books/choice2.html)
 
 Bruce Hansen: [Econometrics (open access book)](http://www.ssc.wisc.edu/~bhansen/econometrics/)
-
 
 Kevin Sheppard: [Python for econometrics (open access book)](https://www.kevinsheppard.com/Python_for_Econometrics)
 
