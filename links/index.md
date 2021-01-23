@@ -11,7 +11,7 @@ layout: default
 
 Alvin Roth: [Game theory, experimental economics and market design (webpage)](http://web.stanford.edu/~alroth/alroth.html)  
 
-Alfred Galichon[math+econ+code (courses webpages)](http://alfredgalichon.com/coursesandtalks/)
+Alfred Galichon: [math+econ+code (courses webpages)](http://alfredgalichon.com/coursesandtalks/)
 
 Fuhito Kojima: [Game theory and market design (lecture notes)](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
 

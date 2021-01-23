@@ -10,12 +10,12 @@ layout: default
 <strong>Auction Theory </strong>
 
 
-[Fundamentals of Auction Theory](“/introauction/lecture02.pdf”)   
+[Fundamentals of Auction Theory](https://github.com/haihan-yu/haihan-yu.github.io/raw/master/teaching/introauction/lecture02.pdf)   
 
 
-[The Vickrey-Clarke-Groves Mechanism](/teaching/introauction/lecture03.pdf)  
+[The Vickrey-Clarke-Groves Mechanism](https://github.com/haihan-yu/haihan-yu.github.io/raw/master/teaching/introauction/lecture03.pdf)  
 
-[Application: e-commerce](/teaching/introauction/lecture03.pdf)    
+[Application: e-commerce](https://github.com/haihan-yu/haihan-yu.github.io/raw/master/teaching/introauction/lecture03.pdf)    
 
 
 <strong>Theory and Applications of Matching </strong>
@@ -41,15 +41,15 @@ layout: default
 
 
 
-[Theory of Consumer]("/Teaching/micro/consumer.pdf")  
+[Theory of Consumer]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")  
 
-[Theory of Producer]("/Teaching/micro/consumer.pdf")  
+[Theory of Producer]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")  
 
-[Competitive Markets and Partial Equilibrium Analysis]("/Teaching/micro/consumer.pdf")  
+[Competitive Markets and Partial Equilibrium Analysis]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")  
 
-[General Equilibrium Analysis]("/Teaching/micro/consumer.pdf")  
+[General Equilibrium Analysis]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")  
 
-[Choice under Uncertainty]("/Teaching/micro/consumer.pdf")	     
+[Choice under Uncertainty]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")	     
 
 
 
