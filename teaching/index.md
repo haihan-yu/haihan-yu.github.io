@@ -10,12 +10,12 @@ layout: default
 <strong>Auction Theory </strong>
 
 
-[Fundamentals of Auction Theory](https://github.com/haihan-yu/haihan-yu.github.io/raw/master/teaching/introauction/lecture02.pdf)   
+[Fundamentals of Auction Theory](introrauction/lecture04.pdf)   
 
 
-[The Vickrey-Clarke-Groves Mechanism](https://github.com/haihan-yu/haihan-yu.github.io/raw/master/teaching/introauction/lecture03.pdf)  
+[The Vickrey-Clarke-Groves Mechanism](/teaching/introauction/lecture03.pdf)  
 
-[Application: e-commerce](https://github.com/haihan-yu/haihan-yu.github.io/raw/master/teaching/introauction/lecture03.pdf)    
+[Application: e-commerce](introrauction/lecture04.pdf)    
 
 
 <strong>Theory and Applications of Matching </strong>
