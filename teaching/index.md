@@ -17,7 +17,7 @@ layout: default
 [Fundamentals of Auction Theory](introrauction/lecture02.pdf)   
 
 
-[The Vickrey-Clarke-Groves Mechanism](introauction/lecture03.pdf)  
+[The Vickrey-Clarke-Groves Mechanism](introrauction/lecture03.pdf)  
 
 [Application: e-commerce](introrauction/lecture04.pdf)    
 
