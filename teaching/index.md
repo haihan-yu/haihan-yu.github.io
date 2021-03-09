@@ -10,10 +10,10 @@ layout: default
 <strong>Auction Theory </strong>
 
 
-[Fundamentals of Auction Theory](introrauction/lecture04.pdf)   
+[Fundamentals of Auction Theory](introrauction/lecture02.pdf)   
 
 
-[The Vickrey-Clarke-Groves Mechanism](/teaching/introauction/lecture03.pdf)  
+[The Vickrey-Clarke-Groves Mechanism](introauction/lecture03.pdf)  
 
 [Application: e-commerce](introrauction/lecture04.pdf)    
 
@@ -23,15 +23,15 @@ layout: default
 
 
 
-[Basic Model of Matching](https://github.com/haihan-yu/haihan-yu.github.io/raw/master/teaching/intromatching/matching01.pdf)         
+[Basic Model of Matching](intromatching/matching01)         
 
-[Many-to-One Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching02.pdf)       
+[Many-to-One Matching](intromatching/matching02)       
 
-[One-to-One Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching03.pdf)         
+[One-to-One Matching](intromatching/matching03)         
 
-[Probabilistic Assignment](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching04.pdf)     
+[Probabilistic Assignment](intromatching/matching04)     
 
-[School Choice](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching05.pdf)     
+[School Choice](intromatching/matching05)     
 
 
 
