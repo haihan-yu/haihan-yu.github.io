@@ -41,15 +41,15 @@ layout: default
 
 
 
-[Theory of Consumer]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")  
+[Theory of Consumer](micro/consumer.pdf)  
 
-[Theory of Producer]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")  
+[Theory of Producer](micro/consumer.pdf)  
 
-[Competitive Markets and Partial Equilibrium Analysis]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")  
+[Competitive Markets and Partial Equilibrium Analysis](/micro/consumer.pdf)  
 
-[General Equilibrium Analysis]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")  
+[General Equilibrium Analysis](/micro/consumer.pdf)  
 
-[Choice under Uncertainty]("https://github.com/haihan-yu/haihan-yu.github.io/raw/master/Teaching/micro/consumer.pdf")	     
+[Choice under Uncertainty](micro/consumer.pdf)	     
 
 
 
