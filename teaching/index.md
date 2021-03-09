@@ -3,9 +3,9 @@ title: Teaching
 layout: default
 ---
 
-<strong>Foundations of Mathematical Economics</strong>(undergraduate)
+<strong>Foundations of Mathematical Economics</strong>(Undergraduate)
 
-[syllabus](mathecon/syllabus)
+[Syllabus](mathecon/syllabus.md)
 
 <strong>Game Theory and Economics of Information </strong>(Ph.D.)
 
