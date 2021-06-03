@@ -11,7 +11,7 @@ layout: default
 
 Alvin Roth: [Game theory, experimental economics and market design (webpage)](http://web.stanford.edu/~alroth/alroth.html)  
 
-Alfred Galichon: [math+econ+code (courses webpages)](http://alfredgalichon.com/coursesandtalks/)  
+Alfred Galichon: [math+econ+code (courses webpages)](https://www.math-econ-code.org/)  
 
 Kim C. Border: [Collections of notes on mathematical economics (lecture notes)](https://healy.econ.ohio-state.edu/kcb/)
 
