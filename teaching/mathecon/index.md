@@ -18,7 +18,7 @@ Course website: haihan-yu.github.io/teaching
 
 ##   Prerequisites
 
-Calculus , linear algebra, principle of economics
+Calculus, linear algebra, principles of economics
 
 ## Grading
 
@@ -29,13 +29,14 @@ Bonus points: If you find my errors in the class, you will get one bonus point (
 ## Textbooks
 <u>*Required textbook*</u>
 
+*Optimization in economic theory* by Dixit, Avinash. Oxford University Press on Demand, 1990.
+
 *Fundamental methods of mathematical economics* by Alpha C.  Chiang and Kevin Wainwright[M]. Boston, Mass.: McGraw-Hill/Irwin,, 2005. 
 
-3Brow1Blue's series videos on Calculus and linear 
+3Brow1Blue's series of videos on Calculus and linear 
 
 <u>*Supplementary materials*</u>
 
-*Optimization in economic theory* by Dixit, Avinash K., and John Sherrerd. Oxford University Press on Demand, 1990.
 
-*Foundations of mathematical economics*.  Carter, Michael.  MIT press, 2001.
+*Foundations of mathematical economics*.  Carter, Michael.  MIT Press, 2001.
 
