@@ -12,6 +12,14 @@ Course website: haihan-yu.github.io/teaching
 
 ## Course description
 
+This course is a preparatory course to deal with mathematical modeling in economics. Along with statistics, mathematics forms the backbone of modern economic theory. The aim of this course is to equip you with the fundamental tools of mathematical modeling used in economics and reinforce your economic reasoning through powerful mathematical modeling skills. There will be five parts in this course:** **
+
+* Introduction.
+* Equilibrium Analysis.
+* Comparative static analysis.
+* Optimization.
+* Applications.
+
 ## Prerequisites
 
 Calculus, linear algebra, principles of economics
