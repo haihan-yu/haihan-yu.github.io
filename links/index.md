@@ -9,7 +9,6 @@ layout: default
 
 ------
 
-Alvin Roth: [Game theory, experimental economics and market design (webpage)](http://web.stanford.edu/~alroth/alroth.html)  
 
 Alfred Galichon: [math+econ+code (courses webpages)](https://www.math-econ-code.org/)  
 
@@ -19,17 +18,11 @@ Fuhito Kojima: [Game theory and market design (lecture notes)](https://sites.goo
 
 Daniel Krahmer: [Behavioral mechanism design (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html); [Bayesian Persuasion and Disclosure (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
 
-David K. Levine: [Game theory (lecture notes)](http://www.dklevine.com/lectures/political-economy/index.htm)  
 
 Giacomo Bonanno: [Decesion making (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html);  [Game theory (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)
 
-Itzhak Gilboa: [Decision theory (lecture notes)](http://itzhakgilboa.weebly.com/teaching-material.html)
 
-Andres Perea: [Epistemic game theory (lecture video)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
-
-Noam Nisan: [Computational game theory (lecture notes)](https://hujiamd.wordpress.com/class-notes/)
-
-Jason Hartline: [Mechanism design approximation (lecture notes)](http://jasonhartline.com/MDnA/)
+Jason Hartline: [Mechanism design and approximation (lecture notes)](http://jasonhartline.com/MDnA/)
 
 Tim Roughgarden: [Algorithmic game theory (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4);   [Advanced mechanism design (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 
