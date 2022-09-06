@@ -82,18 +82,6 @@ Jay Cummings: [Long-form mathematics  (webpage)](https://longformmath.com)
 
 
 
-
-
-------
-
-**Cognitive Science**    
-
-------
-
-[Probabilistic model of cognition](https://probmods.org/)
-
-[Probability and causality in human cognition](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-916-a-probability-and-causality-in-human-cognition-spring-2003/)
-
 -------
 
 **Programming**  
@@ -114,11 +102,6 @@ Jay Cummings: [Long-form mathematics  (webpage)](https://longformmath.com)
 
 [StackExchange Mathematica](http://mathematica.stackexchange.com/)
 
-<u>Python</u>
-
-[Computer science for all with Python](https://www.cs.hmc.edu/csforall/)
-
-[Doing mathematics with Python](https://github.com/drvinceknight/Python-Mathematics-Handbook)
 
 ------
 
@@ -127,6 +110,8 @@ Jay Cummings: [Long-form mathematics  (webpage)](https://longformmath.com)
 ------
 
 [ProMarket](https://promarket.org/)  
+
+[Show me the math](https://showmethemath.org/)
 
 [The root of progress](https://rootsofprogress.org)  
 
