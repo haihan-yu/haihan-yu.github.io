@@ -4,11 +4,8 @@ layout: default
 ---
 
 <strong>Economics of Uncertainty and Information</strong> (Graduate)
-
 [Syllabus](inforecon/syllabus.pdf)
-<strong>Foundations of Mathematical Economics</strong> (Undergraduate)
 
-[Syllabus](mathecon/)
 
 <strong> Game Theory and Economics of Information </strong>(Ph.D.)
 
