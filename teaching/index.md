@@ -4,6 +4,7 @@ layout: default
 ---
 
 <strong>Economics of Uncertainty and Information</strong> (Graduate)
+
 [Syllabus](inforecon/syllabus.pdf)
 
 <strong> Game Theory and Economics of Information </strong>(Ph.D.)
