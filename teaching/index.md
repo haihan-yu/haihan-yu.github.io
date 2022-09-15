@@ -12,7 +12,7 @@ layout: default
 
 <strong> Game Theory and Economics of Information </strong>(Ph.D.)
 
-[Link to syllabus](https://shimo.im/docs/qQr9qkt8cXyHRYvQ/ )
+[Syllabus](gametheory/syllabus.pdf)
 
 <strong>Auction Theory </strong>
 
