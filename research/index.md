@@ -14,14 +14,17 @@ layout: default
 **Working Paper**   
 
 - [Common Knowledge of Rationality and Information Demand: An Experiment on Observational Learning and Information Consumption](https://www.dropbox.com/s/tk0ps19l9hfqrha/CKR_submission-2.pdf?dl=0)  *Revise and Resubmit at Journal of Economic Behavior and Organization*. 
-- Complexity and Cognitive Reflection: An Experiment
 
 
 
 **Working in Progress**   
 
 
+- Entry Deterrence, Signaling and Common Pool Resources: An
+  Experimen
+
+
 - Boston Mechanisms with Non-Equilibrium Strategic Players with [Makoto Yokoo](http://agent.inf.kyushu-u.ac.jp/~yokoo/)
-- Contested School Choice
+
 
 
