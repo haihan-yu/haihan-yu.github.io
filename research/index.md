@@ -21,9 +21,7 @@ layout: default
 
 
 - Entry Deterrence, Signaling and Common Pool Resources: An
-  Experimen
-
-
+  Experimental Investigation
 - Boston Mechanisms with Non-Equilibrium Strategic Players with [Makoto Yokoo](http://agent.inf.kyushu-u.ac.jp/~yokoo/)
 
 
