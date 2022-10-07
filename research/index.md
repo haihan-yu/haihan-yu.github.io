@@ -20,8 +20,7 @@ layout: default
 **Working in Progress**   
 
 
-- Entry Deterrence, Signaling and Common Pool Resources: An
-  Experimental Investigation
+- Entry Deterrence, Signaling and Common Pool Resources: An Experimental Investigation
 - Boston Mechanisms with Non-Equilibrium Strategic Players with [Makoto Yokoo](http://agent.inf.kyushu-u.ac.jp/~yokoo/)
 
 
