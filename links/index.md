@@ -17,25 +17,13 @@ Kim C. Border: [Collections of notes on mathematical economics (lecture notes)](
 
 Fuhito Kojima: [Game theory and market design (lecture notes)](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
 
-Daniel Krahmer: [Behavioral mechanism design (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html); [Bayesian Persuasion and Disclosure (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
-
-David K. Levine: [Game theory (lecture notes)](http://www.dklevine.com/lectures/political-economy/index.htm)  
-
 Giacomo Bonanno: [Decesion making (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html);  [Game theory (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)
 
-Itzhak Gilboa: [Decision theory (lecture notes)](http://itzhakgilboa.weebly.com/teaching-material.html)
-
-Andres Perea: [Epistemic game theory (lecture video)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
-
-Noam Nisan: [Computational game theory (lecture notes)](https://hujiamd.wordpress.com/class-notes/)
 
 Jason Hartline: [Mechanism design approximation (lecture notes)](http://jasonhartline.com/MDnA/)
 
 Tim Roughgarden: [Algorithmic game theory (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4);   [Advanced mechanism design (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 
-Vincent P. Crawford [Game theory, microeconomics and behavioral economics (lecture notes)](http://econweb.ucsd.edu/~vcrawfor/index.html#Courses)
-
-Aldo Rustichini: [Game theory and economics (lecture notes)](https://sites.google.com/site/aldorustichini/home/aldo-rustichini-teaching-university-of-minnesota)
 
 Dirk Bergemann: [Mechanism design and computation (lecture notes)](https://campuspress.yale.edu/dirkbergemann/teaching/). 
 
@@ -57,13 +45,10 @@ Victor Aguirregabiria: [Structural econometrics for industrial organizations (le
 
 Kenneth Train: [Discrete choice methods with simulation (lecture notes)](http://eml.berkeley.edu/books/choice2.html)
 
-Bruce Hansen: [Econometrics (open access book)](http://www.ssc.wisc.edu/~bhansen/econometrics/)
-
 Kevin Sheppard: [Python for econometrics (open access book)](https://www.kevinsheppard.com/Python_for_Econometrics)
 
 Bryan Graham: [Econometrics for social networks (lecture notes)](https://github.com/bryangraham/short_courses)    
 
-[A repository of papers that bring machine learning into economics and econometrics](http://econ-neural.net/)
 
 ------
 
@@ -84,10 +69,6 @@ Sergei Treil: [Linear algebra done wrong (open access book)](http://www.math.bro
 Rakesh V. Vohra: [Submodularity and discrete convexity (lecture notes)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdWFlcmVyZXZlcnVtOXxneDo2YjM0ZmZmYjIxYzUwMWY)   
 
 Jay Cummings: [Long-form mathematics  (webpage)](https://longformmath.com)     
-
-
-
-
 
 
 
