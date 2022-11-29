@@ -20,7 +20,7 @@ layout: default
 
 **Working in Progress**   
 
-- Hedonic model: An Experimental Study
+- Asymmetric Information and Common Pool Resources: An Experimental Study
 - Boston Mechanisms with Non-Equilibrium Strategic Players with [Makoto Yokoo](http://agent.inf.kyushu-u.ac.jp/~yokoo/)
 - Contested School Choice
 
