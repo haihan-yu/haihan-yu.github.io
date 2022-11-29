@@ -8,7 +8,7 @@ layout: default
 I am an assistant professor at School of Economics, Zhejiang University of Finance and Economics. 
 
 
-My current research interests centers around:
+My current research interests center around:
 * Game theory
 * Market Design
 * Application of Optimal Transport in Economics
