@@ -3,13 +3,13 @@ title: Teaching
 layout: default
 ---
 
-<strong>Foundations of Mathematical Economics</strong> (Undergraduate)
+<strong>Economics of Uncertainty and Information</strong> (Graduate)
 
-[Syllabus](mathecon/)
+[Syllabus](inforecon/syllabus.pdf)
 
 <strong> Game Theory and Economics of Information </strong>(Ph.D.)
 
-[Link to syllabus](https://shimo.im/docs/qQr9qkt8cXyHRYvQ/ )
+[Syllabus](gametheory/syllabus.pdf)
 
 <strong>Auction Theory </strong>
 
