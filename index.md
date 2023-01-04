@@ -11,7 +11,7 @@ I am an assistant professor at School of Economics, Zhejiang University of Finan
 My current research interests center around:
 * Game theory
 * Market Design
-* Application of Optimal Transport in Economics
+* Applications of Optimal Transport in Economics
 * Experimental Economics
 
 
@@ -23,5 +23,5 @@ Zhejiang University of Finance and Economics<br/>
 Xueyuan Street No.18,<br/>
 Xiasha Higher Education Park, 310018，<br/>
 Hangzhou, China<br/>
-Email:haihanyu(at)icloud.com, haihanyu@zufe.edu.cn</p>
+Email:haihanyu[at]proton.me, haihanyu[at]zufe.edu.cn</p>
 
