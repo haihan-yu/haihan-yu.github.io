@@ -23,5 +23,5 @@ Zhejiang University of Finance and Economics<br/>
 Xueyuan Street No.18,<br/>
 Xiasha Higher Education Park, 310018，<br/>
 Hangzhou, China<br/>
-Email:haihan_yu@outlook.com, haihanyu[at]zufe.edu.cn</p>
+Email:haihanyu@proton.me, haihanyu[at]zufe.edu.cn</p>
 
