@@ -5,7 +5,7 @@ layout: default
 
 # Haihan Yu
 
-I am an assistant professor at School of Economics, Zhejiang University of Finance and Economics. 
+I am an assistant professor at the School of Economics, Zhejiang University of Finance and Economics. 
 
 
 My  research interests center around:
@@ -14,8 +14,7 @@ My  research interests center around:
 * Applications of Optimal Transport in Economics
 * Experimental Economics
 
-Currently, I am working on several projects related to dynamic games, relational contracts, externality and a textbook
-on mathematical economics for undergraduates.
+
 
 <p><strong>Contact Information: </strong><br/>
 Office 208B, School of Economics,<br/>
@@ -24,4 +23,3 @@ Xueyuan Street No.18,<br/>
 Xiasha Higher Education Park, 310018，<br/>
 Hangzhou, China<br/>
 Email:haihanyu@proton.me, haihanyu[at]zufe.edu.cn</p>
-
