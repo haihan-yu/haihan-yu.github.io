@@ -13,7 +13,6 @@ layout: default
 
 <strong>Auction Theory </strong>
 
-
 [Fundamentals of Auction Theory](introrauction/lecture02.pdf)   
 
 
@@ -26,16 +25,15 @@ layout: default
 
 
 
+[Basic Model of Matching](intromatching/matching01.pdf)         
 
-[Basic Model of Matching](intromatching/matching01)         
+[Many-to-One Matching](intromatching/matching02.pdf)       
 
-[Many-to-One Matching](intromatching/matching02)       
+[One-to-One Matching](intromatching/matching03.pdf)         
 
-[One-to-One Matching](intromatching/matching03)         
+[Probabilistic Assignment](intromatching/matching04.pdf)     
 
-[Probabilistic Assignment](intromatching/matching04)     
-
-[School Choice](intromatching/matching05)     
+[School Choice](intromatching/matching05.pdf)     
 
 
 
