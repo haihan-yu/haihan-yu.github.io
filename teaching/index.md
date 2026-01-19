@@ -43,9 +43,9 @@ layout: default
 
 
 
-[Theory of Consumer](micro/consumer.pdf)  
+[Theory of Consumers](micro/consumer.pdf)  
 
-[Theory of Producer](micro/consumer.pdf)  
+[Theory of Producers](micro/consumer.pdf)  
 
 [Competitive Markets and Partial Equilibrium Analysis](/micro/consumer.pdf)  
 
@@ -54,11 +54,4 @@ layout: default
 [Choice under Uncertainty](micro/consumer.pdf)	     
 
 
-
-
-<strong>Miscellaneous Lecture Notes</strong>
-
-
-
-[Introduction to Level-K Thinking](https://github.com/haihan-yu/haihan-yu.github.io/raw/master/teaching/micro/Level_k.pdf)
 
