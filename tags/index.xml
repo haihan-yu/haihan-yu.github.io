@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Haihan Yu</title>
+    <link>https://haihan-yu.github.io/tags/</link>
+    <description>Recent content in Tags on Haihan Yu</description>
+    <image>
+      <title>Haihan Yu</title>
+      <url>https://haihan-yu.github.io/cover.png</url>
+      <link>https://haihan-yu.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- 0.105.0</generator>
+    <language>en-us</language>
+    <atom:link href="https://haihan-yu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

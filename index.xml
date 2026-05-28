@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haihan Yu</title>
+    <link>https://haihan-yu.github.io/</link>
+    <description>Recent content on Haihan Yu</description>
+    <image>
+      <title>Haihan Yu</title>
+      <url>https://haihan-yu.github.io/cover.png</url>
+      <link>https://haihan-yu.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- 0.105.0</generator>
+    <language>en-us</language>
+    <atom:link href="https://haihan-yu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auction Theory</title>
+      <link>https://haihan-yu.github.io/teaching/introrauction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haihan-yu.github.io/teaching/introrauction/</guid>
+      <description>Lecture materials for Auction Theory.</description>
+    </item>
+    <item>
+      <title>Theory and Applications of Matching</title>
+      <link>https://haihan-yu.github.io/teaching/intromatching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haihan-yu.github.io/teaching/intromatching/</guid>
+      <description>Lecture materials for Theory and Applications of Matching.</description>
+    </item>
+    <item>
+      <title>Economics of Uncertainty and Information</title>
+      <link>https://haihan-yu.github.io/teaching/inforecon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haihan-yu.github.io/teaching/inforecon/</guid>
+      <description>Graduate course materials for Economics of Uncertainty and Information.</description>
+    </item>
+    <item>
+      <title>Game Theory and Economics of Information</title>
+      <link>https://haihan-yu.github.io/teaching/gametheory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haihan-yu.github.io/teaching/gametheory/</guid>
+      <description>Ph.D. course materials for Game Theory and Economics of Information.</description>
+    </item>
+    <item>
+      <title>Foundations of Mathematical Economics</title>
+      <link>https://haihan-yu.github.io/teaching/mathecon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haihan-yu.github.io/teaching/mathecon/</guid>
+      <description>Course information for ECO1162: Foundations of Mathematical Economics.</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://haihan-yu.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://haihan-yu.github.io/research/</guid>
+      <description>Publications Fooling or Pooling: An Experiment on Signaling with F. Feri, M. A. Meléndez-Jiménez, G. Ponti, F. Vega-Redondo, Journal of Economic Behavior &amp;amp; Organization 176 (2020): 582-596.
+Cognitive (Ir)reflection: New Experimental Evidence with C. Cueva, E. Mata-Pérez, I. Iturbe-Ormaetxe, G. Ponti, M. Sartarelli, and V. Zhukova, Journal of Behavioral and Experimental Economics 64 (2016): 81-93.
+Working Papers Imperfect Monitoring and Conflicts: Evidence from an Ultimatum Game (Submitted) Weaponized Reputation: Experimental Evidence on the Misuse of Coordinated Punishments (Submitted) Information Disclosure and Strategic Conservation in the Commons: An Experimental Investigation Property Rights as Outside Options: An Experimental Test Common Knowledge of Rationality and Information Demand: An Experiment on Observational Learning and Information Consumption Work in Progress The Strategic Value of Organizational Inefficiency: An Experimental Study Leapfrogging the Coase Conjecture </description>
+    </item>
+  </channel>
+</rss>
