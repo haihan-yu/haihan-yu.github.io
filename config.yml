@@ -1,0 +1,103 @@
+baseURL: "https://haihan-yu.github.io"
+title: Haihan Yu
+languageCode: en-us
+theme: PaperMod
+disableHugoGeneratorInject: true
+pagination:
+  pagerSize: 40
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: CV
+          url: /cv.pdf
+          weight: 1
+ #       - name: Book
+ #         url: /18/
+ #         weight: 1
+        - name: Research
+          url: /research/
+          weight: 2
+        - name: Teaching
+          url: /teaching/
+          weight: 3
+
+
+params:
+    description: "I am Haihan Yu, an assistant professor of economics at Zhejiang University of Finance and Economics. My long-term research agenda is to understand the mechanisms and institutions that sustain cooperation and coordination, and how they advance both individual liberty and social good. Currently, my research focuses on dynamic incentive problems in relational contracts, repeated games, and bargaining."
+    author: Haihan Yu(余 海晗)
+    googleAnalyticsID: "G-QJWFPS7RV7"
+    images: ["cover.png"]
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    ShowWordCount: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    disableScrollToTop: true
+    ShowCodeCopyButtons: true
+    ShowToc: false
+    TocOpen: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Haihan Yu (余海晗)
+          subtitle: |
+            I am an assistant professor of economics at Zhejiang University of Finance and Economics.
+            My long-term research agenda is to understand the mechanisms and institutions that sustain cooperation and coordination, and how they advance both individual liberty and social good.
+            Currently, my research focuses on dynamic incentive problems in relational contracts, repeated games, and bargaining.
+          imageUrl: "/picture.jpeg"
+          imageWidth: 200
+          imageHeight: 200
+          buttons:
+            - name: CV
+              url: /cv.pdf
+            - name: Research
+              url: /research
+            - name: Teaching
+              url: /teaching/  
+
+
+    socialIcons:
+
+        - name: Email
+          url: mailto:haihanyu@zufe.edu.cn
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=O0EYKTMAAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/haihan-yu
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Haihan Yu"
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: xcode 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+titleCaseStyle: 'none'
+enableGitInfo: false
+buildFuture: true

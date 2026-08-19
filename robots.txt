@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://haihan-yu.github.io/sitemap.xml
