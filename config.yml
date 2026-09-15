@@ -78,6 +78,15 @@ params:
 
     assets:
         disableScrollBarStyle: true
+        icon_version: "hy-20260911"
+        favicon: "favicon.ico"
+        favicon_svg: "favicon.svg"
+        favicon16x16: "favicon-16x16.png"
+        favicon32x32: "favicon-32x32.png"
+        apple_touch_icon: "apple-touch-icon.png"
+        manifest: "site.webmanifest"
+        theme_color: "#5E42BC"
+        msapplication_TileColor: "#5E42BC"
     cover:
         hiddenInList: true
         hiddenInSingle: true

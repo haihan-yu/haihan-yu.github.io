@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <title>Haihan Yu</title>
+  <desc>A white geometric HY monogram on a purple rounded square.</desc>
+  <style>
+    #monogram-small { display: none; }
+    @media (max-width: 16px) {
+      #monogram { display: none; }
+      #monogram-small { display: inline; }
+    }
+  </style>
+  <rect id="background" width="96" height="96" rx="19.2" fill="#5E42BC"/>
+  <g id="monogram" fill="#FFFFFF">
+    <polygon points="13,24 20.5,24 20.5,44 36.5,44 36.5,24 44,24 44,72 36.5,72 36.5,51.5 20.5,51.5 20.5,72 13,72"/>
+    <polygon points="45,24 53.75,24 64,43.25 74.25,24 83,24 67.75,51 67.75,72 60.25,72 60.25,51"/>
+  </g>
+  <!-- Optical correction for a 16 px viewport: wider stems and open counters. -->
+  <g id="monogram-small" fill="#FFFFFF">
+    <polygon points="12,24 21,24 21,43.5 33,43.5 33,24 42,24 42,72 33,72 33,52.5 21,52.5 21,72 12,72"/>
+    <polygon points="45,24 55.5,24 63,40.5 70.5,24 81,24 67.5,49.5 67.5,72 58.5,72 58.5,49.5"/>
+  </g>
+</svg>
